@@ -1,0 +1,104 @@
+body {
+    /* Location of the image */
+    background-image: url(contact.jpg);
+    
+    /* Background image is centered vertically and horizontally at all times */
+    background-position: center center;
+    
+    /* Background image doesn't tile */
+    background-repeat: no-repeat;
+    
+    /* Background image is fixed in the viewport so that it doesn't move when
+    the content's height is greater than the image's height */
+    background-attachment: fixed;
+    
+    /* This is what makes the background image rescale based
+    on the container's size */
+    background-size: cover;
+    
+    /* Set a background color that will be displayed
+    while the background image is loading */
+    background-color: #464646;
+    }
+#fd{
+    width:fit-content;
+height:fit-content;
+margin-top: 1.875rem;
+margin-left:25rem;
+margin-right: 0.625rem;
+    color:rgb(7, 7, 7);
+    }
+    h6{
+       
+        background: #f1ffa3;
+       
+        font-family: 'Times New roman', sans-serif;
+         color: #030303;
+         font-size: 1.875rem;
+         padding: 0.625rem 0.625rem 0.625rem 0.625rem;
+   
+    }
+    
+    #msg{
+        width:51.25rem;
+    height: 6.25rem;
+    margin-top: 0.625rem;
+  
+        color:rgb(7, 7, 7);
+        }
+        h2{
+            width:fit-content;
+            height: 6.25rem;
+            background: #f1ffa3;
+            margin-left:16.25rem;
+          
+            font-family: 'Times New roman', sans-serif;
+             color: #030303;
+             font-size: 1.875rem;
+             padding: 0.625rem 1.25rem 0.625rem 1.25rem;
+       
+        }
+
+        h4{
+            font-size:1.25rem;
+           margin-left: 21.875rem;
+        width:fit-content;
+      }
+
+
+        .mail {
+            background: #0275c2;
+        margin-left: 19.375rem;
+        font-family: 'Times New roman', sans-serif;
+         color: #ffffff;
+         font-size: 1.25rem;
+         padding: 0.625rem 1.25rem 0.625rem 1.25rem;
+       
+       }
+    h5{
+        background: #0275c2;
+        font-family: 'Times New roman', sans-serif;
+         color: #ffffff;
+         font-size: 1.25rem;
+         padding: 0.3125rem 0.3125rem 0.3125rem 0.3125rem ;
+
+    }
+
+    h1{
+        font-family: 'Times New roman', sans-serif;
+         color: #ffffff;
+       
+
+    }
+
+    h3{
+        width:fit-content;
+        height:fit-content;
+        margin-left: 15rem;
+        background: #c20202;
+        font-family: 'Times New roman', sans-serif;
+         color: #ffffff;
+         font-size: 1.25rem;
+         
+
+    }
